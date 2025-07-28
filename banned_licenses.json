@@ -1,0 +1,6 @@
+{
+  "comment": "List of revoked/banned license hashes.",
+  "banned_hashes": [
+    "hash_lisensi_yang_sudah_dibajak_atau_direfund"
+  ]
+}
