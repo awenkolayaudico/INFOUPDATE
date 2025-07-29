@@ -1,0 +1,8 @@
+{
+  "FLW-PRO-DUMMY-KEY-1234": {
+    "status": "active",
+    "tier": "pro",
+    "machine_id": "unique-machine-id-for-testing",
+    "notes": "Lisensi untuk testing awal."
+  }
+}
