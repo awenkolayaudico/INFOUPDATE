@@ -1,7 +1,7 @@
 {
     "schema_version": "1.0",
     "default_tier_override": "architect",
-    "monetization_active": true,
+    "monetization_active": false,
     "capabilities": {
         "web_scraping_advanced": "basic",
         "time_travel_debugger": "basic",
